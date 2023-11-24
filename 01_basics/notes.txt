@@ -17,3 +17,17 @@
             2. the primitive data types values always transfer their value copy to another variable.
             3. non-primitive data types(reference data types) always transfer base on reference It means 
 
+            ******************************************************************************************************************
+                                        Primitive and Non-Primitive Data types Store in Memories
+            ******************************************************************************************************************
+            1. stack Memorie (primitive):- It always provide copy.
+            2. heap Memorie (non-primitive):- It always provide reference.
+
+            1. all variables store in stack memorie.
+            2. when we store non-primitive data to a variable that time that variable will be in stack 
+            but still It will point to the heap memorie because it has took reference of non-primitive data.
+
+
+           
+
+
