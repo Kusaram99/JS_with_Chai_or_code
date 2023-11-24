@@ -1,0 +1,16 @@
+1. variables.js:- 
+            1. In javascript const and let have block scope envirnment 
+            2. We can declare and assigne value to const only once. Because It is a contant variable.
+            3. To let variable we can define and assigne value multiple time but we can not re-declare to let variable.
+            4. In JavaScript, the var keyword creates variables with function scope or global scope. 
+
+2. 02_datatypes.js:-
+            1. string = "",
+            2. boolean = true/false,
+            3. bigint
+            4. number = 243
+            5. null = standalone value (type = Object);
+            5. undefined = undefined
+
+
+
