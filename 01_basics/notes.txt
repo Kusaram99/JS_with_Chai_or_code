@@ -12,5 +12,8 @@
             5. null = standalone value (type = Object);
             5. undefined = undefined
 
-
+3. datatype-summary:-
+            1. Symbol always return a unique value
+            2. the primitive data types values always transfer their value copy to another variable.
+            3. non-primitive data types(reference data types) always transfer base on reference It means 
 
