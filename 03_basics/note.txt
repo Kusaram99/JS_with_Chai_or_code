@@ -1,0 +1,15 @@
+1. 02_scopes.js:-
+        1.function expression:- we can not call  before initialise to the function expression in javascript.
+                                otherwise it will throw error.
+        2. 
+
+2. 03_arrow.js:- 
+        1. this keyword:- when we use this keywords in the object's function that time it point to the current properties of
+                          object.
+        2. this keyword with function:- this keyword doesn't work in function as it work in object it means
+                                        we can not use function's variable using 'this' keywords in current function scope.
+                                        it is same in array function also. 
+                                        and if we use it in globel envernment that time "this" keyword point to the window object.
+
+3. what is IIFE:-    (interview question)
+        1. globle scope ke polution se problem hoti hen kaibar esliye globle scope ke variables hatane ke liye use karten hen.

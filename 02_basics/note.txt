@@ -1,0 +1,18 @@
+1. 01_arrays.js:- 
+        1. slice():- In javascript slice() method doesn't change values or size of original array.
+        2. splice():- In javascript splice() method can change values or size of original array.
+
+2. 02_array.js:-
+        1. arrayflat():- array.flat(infinity) method convert multiple subarray in the single array. example in code.
+        2. Array.isArray(data):- this method check passed data is array or not if not it will return false otherwise true.
+        3. Array.from('ram'):- Array.from() method convert given value into the array. Example in code.
+        4. Array.of(var-names):- this method returns new array with given variables's value.
+
+3. 03_object.js:-
+        1. when we pass a external variables to the object as key that time we need to pass it in bracket 
+           like { [key]: "value" }. otherwise object will take as { "key" : "value" }.
+
+4. 04_objects.js:- 
+        1. Object.keys(obj):- method return all keys in an array of given object.
+        2. Object.values(obj):- method return all object value in an array form.
+        3. Object.entries(obj):- method converts each obj's keys and values in array pairs then then returns all object value in array.
